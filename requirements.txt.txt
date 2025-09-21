@@ -1,0 +1,6 @@
+dash
+dash_cytoscape
+networkx
+scikit-learn
+feedparser
+transformers
