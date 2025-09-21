@@ -25,3 +25,5 @@ Unlike a simple dashboard, this system builds a **living, breathing network of n
 - **Cytoscape.js**  
 - **NetworkX**  
 - **HuggingFace Transformers**  
+
+WATCH A QUICK DEMO:- [https://youtu.be/lUdadpgdLU4]
